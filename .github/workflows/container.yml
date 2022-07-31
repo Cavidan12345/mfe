@@ -1,5 +1,5 @@
 name: deploy-container
-  ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
 on:
   push:
