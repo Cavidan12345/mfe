@@ -1,5 +1,4 @@
 name: deploy-container
-  env: 'sd'
 
 on:
   push:
